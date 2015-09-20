@@ -35,9 +35,9 @@
 \cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
 \ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
-Normal Table;}}{\*\rsidtbl \rsid4215414\rsid4465813\rsid4802111\rsid5119482\rsid5512405\rsid6562516\rsid6627949\rsid8259205\rsid11100706\rsid11561088\rsid13501260\rsid14903953\rsid14945653}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1
-\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author VeryPDF}{\operator home1}{\creatim\yr2014\mo11\dy11\hr10\min31}{\revtim\yr2015\mo9\dy3\hr1\min45}{\printim\yr2015\mo5\dy3\hr3\min28}{\version12}{\edmins23}{\nofpages2}
-{\nofwords585}{\nofchars3340}{\*\company VeryPDF.com Inc}{\nofcharsws3918}{\vern49247}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11906\paperh15407\margl0\margr0\margt0\margb0\gutter0\ltrsect 
+Normal Table;}}{\*\rsidtbl \rsid332796\rsid4215414\rsid4465813\rsid4802111\rsid5119482\rsid5512405\rsid6562516\rsid6627949\rsid8259205\rsid9654307\rsid11100706\rsid11561088\rsid13501260\rsid14903953\rsid14945653}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0
+\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author VeryPDF}{\operator home1}{\creatim\yr2014\mo11\dy11\hr10\min31}{\revtim\yr2015\mo9\dy19\hr21\min39}{\printim\yr2015\mo5\dy3\hr3\min28}{\version13}
+{\edmins24}{\nofpages2}{\nofwords585}{\nofchars3341}{\*\company VeryPDF.com Inc}{\nofcharsws3919}{\vern49247}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11906\paperh15407\margl0\margr0\margt0\margb0\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
 \dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale120\rsidroot4465813 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
 \pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
@@ -76,12 +76,12 @@ Normal Table;}}{\*\rsidtbl \rsid4215414\rsid4465813\rsid4802111\rsid5119482\rsid
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                -}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid4465813 \hich\af37\dbch\af31505\loch\f37 Angular}{\rtlch\fcs1 \af37\afs17 
 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                -}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid4465813 \hich\af37\dbch\af31505\loch\f37 PHP
-\par \tab \hich\af37\dbch\af31505\loch\f37        -C#}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid14945653 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid332796 \tab \hich\af37\dbch\af31505\loch\f37        -C++}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid14945653 
 \par \tab \hich\af37\dbch\af31505\loch\f37        -ruby
 \par \hich\af37\dbch\af31505\loch\f37                -ruby on rails}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37       *Meticulous attention}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37       *Managerial Experience}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37       \hich\af37\dbch\af31505\loch\f37 *Logical/Mathematical mental disposition}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37       *Logical/Mathematical mental disposition}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\pvpg\phpg\posx5301\posy5104\absh-3718\absw6005\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0\pararsid11100706 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 -}{\rtlch\fcs1 \af37\afs17 
 \ltrch\fcs0 \b\f37\fs17\cf1\insrsid4802111 \hich\af37\dbch\af31505\loch\f37 Ci}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \b\f37\fs17\cf1\insrsid4802111\charrsid4802111 \hich\af37\dbch\af31505\loch\f37 sco's}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 
 \f37\fs17\cf1\insrsid4802111 \hich\af37\dbch\af31505\loch\f37  ICND1}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 
@@ -99,36 +99,37 @@ Normal Table;}}{\*\rsidtbl \rsid4215414\rsid4465813\rsid4802111\rsid5119482\rsid
 \par \hich\af37\dbch\af31505\loch\f37 http://PicHandler.com
 \par \tab \hich\af37\dbch\af31505\loch\f37 -unlaunched
 \par \tab \hich\af37\dbch\af31505\loch\f37 -desktop app for }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid11561088 \hich\af37\dbch\af31505\loch\f37 photographers}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid6562516 
-\hich\af37\dbch\af31505\loch\f37  to access pictures on dropbox, google Drive, edit meta-info and rename while keeping tr\hich\af37\dbch\af31505\loch\f37 ack of their stock in a database.
+\hich\af37\dbch\af31505\loch\f37  to access pictures on dropbox, google Drive, edit meta-info and rename while keeping track of their stock in a database.
 \par \tab \hich\af37\dbch\af31505\loch\f37 -HTML, CSS, AngularJs, bootstrap }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid6562516\charrsid6562516 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx1400\posy8918\absw9444\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af41\afs17 \ltrch\fcs0 \f41\fs17\cf1\insrsid8259205 \hich\af41\dbch\af31505\loch\f41 EXPERIENCE}{\rtlch\fcs1 \af41\afs17 
 \ltrch\fcs0 \f41\fs17\cf1\insrsid6562516 \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af41\afs17 \ltrch\fcs0 \f41\fs17\cf1\insrsid8259205 \hich\af41\dbch\af31505\loch\f41        }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 
-Throughout my venture into the market where various industries hire individuals with the required skills}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid4465813 
+Throughout my venture into the market where various indu\hich\af37\dbch\af31505\loch\f37 stries hire individuals with the required skills}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid4465813 
 \par \tab }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid4215414 \hich\af37\dbch\af31505\loch\f37        }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 to success in their respective business }{
 \rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid11561088 \hich\af37\dbch\af31505\loch\f37 endeavors}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 , in addition to the skills that one would}{
 \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37         }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid4215414 \hich\af37\dbch\af31505\loch\f37        }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 
-\f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 acquire as a result of the primary function of an employee in his/her job position, I have stayed}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                active on a personal level in regards to ADVANCING my knowledge in my search of an id\hich\af37\dbch\af31505\loch\f37 eal}{\rtlch\fcs1 
-\af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 acquire as a result of the primary function of an employee in his/her job position, I have s\hich\af37\dbch\af31505\loch\f37 tayed}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                active on a personal level in regards to ADVANCING my knowledge in my search of an ideal}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                career. Such }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid11561088 \hich\af37\dbch\af31505\loch\f37 endeavors}{\rtlch\fcs1 
 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  include}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37            }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \hich\af37\dbch\af31505\loch\f37                  }{\rtlch\fcs1 \af37\afs17 
 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  -Cisco\hich\f37 \rquote }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid11561088 \hich\af37\dbch\af31505\loch\f37 s CCNA Certification (current s}{\rtlch\fcs1 
 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 tudies)}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37           }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \hich\af37\dbch\af31505\loch\f37                  }{\rtlch\fcs1 \af37\afs17 
-\ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37   -Knowledge of Computer Systems, Software & Hardware}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37           }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \hich\af37\dbch\af31505\loch\f37                
+\hich\af37\dbch\af31505\loch\f37   }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37   -Knowledge of Computer Systems, Software & Hardware}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37            }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \hich\af37\dbch\af31505\loch\f37                  }{\rtlch\fcs1 \af37\afs17 
 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  -Projected Goal
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \tab \tab \tab \tab -\hich\af37\dbch\af31505\loch\f37 Front & Back-end Web Development
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \tab \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 -Front & Back-end Web Development
 \par \tab \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 -Application Development}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid5119482 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                                  -Red }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5119482 \hich\af37\dbch\af31505\loch\f37 Hat}{\rtlch\fcs1 
 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  Linux Certification}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                                  -Microsoft Server 2012 }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5512405 
-\hich\af37\dbch\af31505\loch\f37 & R2 }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 Certification
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5512405 \hich\af37\dbch\af31505\loch\f37                                  -MIcrosoft Development C\hich\af37\dbch\af31505\loch\f37 ertification}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f0\fs24\insrsid5512405 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37                           \hich\af37\dbch\af31505\loch\f37        -Microsoft Server 2012 }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 
+\f37\fs17\cf1\insrsid5512405 \hich\af37\dbch\af31505\loch\f37 & R2 }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 Certification
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid5512405 \hich\af37\dbch\af31505\loch\f37                                  -MIcrosoft Development Certification}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid5512405 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\pvpg\phpg\posx2061\posy12544\absw8093\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0\pararsid13501260 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid13501260 \hich\af37\dbch\af31505\loch\f37 
 Wolfgang Puck Catering2007-Present}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid13501260 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid13501260 \hich\af37\dbch\af31505\loch\f37 -Bar Manager:}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid13501260 
@@ -136,9 +137,9 @@ Wolfgang Puck Catering2007-Present}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\
 \f0\fs24\insrsid13501260 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid13501260 \hich\af37\dbch\af31505\loch\f37  sheets for payroll department, supervise staff, interact with guests in a professional/courteous}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\insrsid13501260 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid13501260 \hich\af37\dbch\af31505\loch\f37 manner. Very exclusive clientele which includes celebrities, studio executives, politicians and}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f0\fs24\insrsid13501260 
-\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid9654307 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid13501260 \hich\af37\dbch\af31505\loch\f37 manner. Very exclusive clientele which includes celebrities, stu\hich\af37\dbch\af31505\loch\f37 dio executives, politicians and}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \f0\fs24\insrsid13501260 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid6449230 
 {\shp{\*\shpinst\shpleft0\shptop-176\shpright11906\shpbottom15231\shpfhdr0\shpbxmargin\shpbxignore\shpbymargin\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
 {\sp{\sn pib}{\sv {\pict\picscalex93\picscaley93\piccropl0\piccropr0\piccropt0\piccropb0\picw22490\pich29104\picwgoal12750\pichgoal16500\jpegblip\bliptag-1691304594{\*\blipuid 9b30bd6ed3ddc3dae0ea9450cec4db8e}
 ffd8ffe000104a46494600010101006000600000ffdb0043000302020302020303030304030304050805050404050a070706080c0a0c0c0b0a0b0b0d0e12100d
@@ -15064,7 +15065,7 @@ f700f8f8f800fafafa00f9f9f900f4f4f400f6f6f600000000000000000000000000000000000000
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010000040000002701ffff030000000000}\par}}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 \sect }\sectd \ltrsect
 \linex0\endnhere\sectspecifyl\sftnbj \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\posx2043\posy1448\absw7411\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
-\fs22\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid9654307 
+\fs22\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid6449230 
 {\shp{\*\shpinst\shpleft0\shptop0\shpright11906\shpbottom15407\shpfhdr0\shpbxmargin\shpbxignore\shpbymargin\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
 {\sp{\sn pib}{\sv {\pict\picscalex93\picscaley93\piccropl0\piccropr0\piccropt0\piccropb0\picw22490\pich29104\picwgoal12750\pichgoal16500\jpegblip\bliptag159143899{\*\blipuid 097c57dbceb32edf7fdf28b29bc377c2}
 ffd8ffe000104a46494600010101006000600000ffdb0043000302020302020303030304030304050805050404050a070706080c0a0c0c0b0a0b0b0d0e12100d
@@ -29991,26 +29992,27 @@ a900c2c2c200575757005d5d5d00585858005a5a5a005353530096969600f6f6f600f3f3f300f7f7
 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010000040000002701ffff030000000000}\par}}}{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 
 businessmen(Eli Brode, Pres. Barak Obama rally, Milken Institute private events, British}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 royal visit to US, etc.)}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx2086\posy2279\absw8588\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 O\hich\f37 \rquote \loch\f37 
-Hare Intl. Airport Hilton Hotel1998-1999}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx2086\posy2279\absw8588\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 O\hich\f37 \rquote 
+\hich\af37\dbch\af31505\loch\f37 Hare Intl. Airport Hilton Hotel1998-1999}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 -Guest Service Agent:}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  Track records related to room assignments, guest\hich\f37 \rquote \loch\f37 s financial accounts and in\hich\af37\dbch\af31505\loch\f37 ternal company}{
-\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  Track records related to room assignments, guest\hich\f37 \rquote \loch\f37 s financial accounts and internal company}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 reports/information. Assist higher management in executing daily operations such as room}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  audits, guest satisfaction surveys and reports and record keeping for internal use in different}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  audits, gue\hich\af37\dbch\af31505\loch\f37 st satisfaction surveys and reports and record keeping for internal use in different}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  departments.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx2086\posy4220\absw8545\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 AppleOne1999-2000}{\rtlch\fcs1 
 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 -General Office Support\hich\af37\dbch\af31505\loch\f37  Staff:}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 -General Office Support Staff:}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  Temporary employment agency specializing in office support. Jobs sent on included financial}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 brokerage firms and private businesses. Duties included maintaining office records and}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 brokerage firms\hich\af37\dbch\af31505\loch\f37  and private businesses. Duties included maintaining office records and}{\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  assisting in daily operations.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx2101\posy6160\absw8531\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 Andrews Intl. Security2005-2006}{
 \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
-\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 -Sec\hich\af37\dbch\af31505\loch\f37 urity detail:}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+\par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 -Security detail:}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  Provide security detail at various venues and events. Organize staff, keep time sheet records,}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\insrsid8259205 
 \par }{\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37  file reports for LAPD when applicable, reports on daily activities, etc.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
@@ -30030,7 +30032,7 @@ Hare Intl. Airport Hilton Hotel1998-1999}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx1400\posy10319\absw1393\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af41\afs17 \ltrch\fcs0 \f41\fs17\cf1\insrsid8259205 \hich\af41\dbch\af31505\loch\f41 HOBBIES}{\rtlch\fcs1 \af0\afs24 
 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx2101\posy10596\absw5702\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 
-Reading, research, computer leisure, billiards, wine tasting, food.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
+Reading, research, computer leisure, billiards, wine \hich\af37\dbch\af31505\loch\f37 tasting, food.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\posx9104\posy9487\absw1527\wrapdefault\faauto\nosnaplinegrid\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs17 \ltrch\fcs0 \f37\fs17\cf1\insrsid8259205 \hich\af37\dbch\af31505\loch\f37 1998-1999}{\rtlch\fcs1 \af0\afs24 
 \ltrch\fcs0 \f0\fs24\insrsid8259205 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid8259205 
@@ -30139,8 +30141,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000e0b9
-78d324e6d001feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000004053
+39555ef3d001feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
