@@ -60,6 +60,7 @@ COMPETENCY
 		-CRUD
 		-mysql
 		-postgreSql
+		-Git
 	*Meticulous attention
 	*Managerial Experience
 	*Logical/Mathematical mental disposition
