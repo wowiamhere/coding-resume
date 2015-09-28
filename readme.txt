@@ -3,7 +3,7 @@ http://www.RunTechServices.com
 SergioBsns@hotmail.com
 
 
-						"Whadda you mean it doesn't compile!!!!!"
+						"Whadda you mean it doesn't run!!!!!"
 
 
 					September 2015
@@ -26,13 +26,14 @@ I like to work from home.
 			Sincerely,
                                                                    
 				           Sergio S.
+						   
 
   
-
 Sergio S.
-Sergiobsns@sbcglobal.net 
+SergioBsns@sbcglobal.net 
 http://www.RunTechServices.com
 http://www.bitbucket.org/wowiamhere
+
 
 OBJECTIVE
         To bring the skills I have learned in my education and job history to achieve the goals set forth
@@ -40,14 +41,14 @@ OBJECTIVE
         an ultimate long term career.
 
 COMPETENCY
-	*75-85 WPM
-    *Computer Experience
+      *75-85 WPM
+      *Computer Experience
 		-HTML
-		-Css 
-		-Javascript 
-		-jQuery 
-		-Angular 
-		-PHP
+        -Css 
+        -Javascript 
+        -jQuery 
+        -Angular 
+        -PHP
 		-C++
 		-ruby
 		-ruby on rails 
@@ -59,10 +60,10 @@ COMPETENCY
 		-mysql
 		-postgreSql
 		-Git
-	*Meticulous attention
-	*Managerial Experience
-	*Logical/Mathematical mental disposition
-	*Cisco's ICND1
+      *Meticulous attention
+      *Managerial Experience
+      *Logical/Mathematical mental disposition
+      *Cisco's ICND1
 
 WEBSITES
 For projects source code and Heroku sites:
@@ -76,58 +77,55 @@ http://latestFashionTrendz.com
 	-unlaunched
 	-monetized through various products using affiliate marketing
 	-HTML, CSS, SEO, Javascript, AngularJS
-
-
 EXPERIENCE		
-	Throughout my venture into the market where various industries hire individuals with the required
-	skills to success in their respective business endeavors, in addition to the skills that one would
-    acquire as a result of the primary function of an employee in his/her job position, I have stayed
-    active on a personal level in regards to ADVANCING my knowledge in my search of an ideal
-    career. Such endeavors include
+       	Throughout my venture into the job market in various, I have acquired skills desirable
+	for prospective employers. I have also stayed active on a personal level in regards to 
+	ADVANCING my knowledge in my search of an ideal career. 
+	Such endeavours include
 		-Cisco’s CCNA Certification (current studies)
         -Knowledge of Computer Systems, Software & Hardware
         -Projected Goal
+		-multi-language programming
 		-Front & Back-end Web Development
 		-Application Development
-			-Red Hat Linux Certification
-            -Microsoft Server 2012 & R2 Certification
-            -MIcrosoft Development Certification
+		-Server Maintenance 
+        -Red Hat Linux Certification
+		-Cisco's CCNA
 
 Wolfgang Puck Catering2007-Present
-	-Bar Manager:
-		Maintain accurate records, file operation reports, compute daily amounts, keep track of time
-		sheets for payroll department, supervise staff, interact with guests in a professional/courteous
-		manner. Very exclusive clientele which includes celebrities, studio executives, politicians and
-		businessmen(Eli Brode, Pres. Barak Obama rally, Milken Institute private events, British
-		royal visit to US, etc.)
+-Bar Manager:
+	 Maintain accurate records, file operation reports, compute daily amounts, keep track of time
+	 sheets for payroll department, supervise staff, interact with guests in a professional/courteous
+	manner. Very exclusive clientèle which includes celebrities, studio executives, politicians and
+	businessmen(ex, Eli Brode, M. Pritzker, Paul Allen, Pres. Barak Obama, 
+	Milken Institute private events, British royal visit to US, movie premiers, award shows, etc.)
 
 O’Hare Intl. Airport Hilton Hotel1998-1999
-	-Guest Service Agent:
-		Track records related to room assignments, guest’s financial accounts and internal company
-		reports/information. Assist higher management in executing daily operations such as room
-		 audits, guest satisfaction surveys and reports and record keeping for internal use in different
-		 departments.
+-Guest Service Agent:
+	 Track records related to room assignments, guest’s financial accounts and internal company
+	reports/information. Assist higher management in executing daily operations such as room
+	 audits, guest satisfaction surveys and reports and record keeping for internal use in different
+	 departments.
 
 AppleOne1999-2000
-	-General Office Support Staff:
-		Temporary employment agency specializing in office support. Jobs sent on included financial
-		brokerage firms and private businesses. Duties included maintaining office records and
-		 assisting in daily operations.
+-General Office Support Staff:
+	 Temporary employment agency specializing in office support. Jobs sent on included financial
+	brokerage firms and private businesses. Duties included maintaining office records and
+	 assisting in daily operations.
 
 Andrews Intl. Security2005-2006
-	-Security detail:
-		Provide security detail at various venues and events. Organize staff, keep time sheet records,
-		 file reports for LAPD when applicable, reports on daily activities, etc.
+-Security detail:
+	 Provide security detail at various venues and events. Organize staff, keep time sheet records,
+	 file reports for LAPD when applicable, reports on daily activities, etc.
 
 EDUCATION
-	Los Angeles City College:2008-present
-		-Computer Science Studies, programming, office software, website building.
-		-General Studies, Anthropology, Mathematics, Physics, Social Studies, Psychology,
+Los Angeles City College:2008-present
+	-Computer Science Studies, programming, office software, website building.
+    -General Studies, Anthropology, Mathematics, Physics, Social Studies, Psychology,
 		Philosophy, Law, Religious Studies.
-
-	DePaul University:
-		-Computer Science Studies and General Education.
+DePaul University:
+	-Computer Science Studies and General Education.
 
 
 HOBBIES
-	Reading, research, computer leisure, billiards, wine tasting, food
+Reading, research, computer leisure, billiards, wine tasting, food.
