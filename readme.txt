@@ -120,6 +120,11 @@ EXPERIENCE
                                 	-Red Hat Linux Certification
 			-Cisco's CCNA
 
+
+UTest.com
+Software Tester:
+Test websites/software/applications using tools such as SoapUI, etc...
+
 Amazon Turk Transcription-Present (home based, not consistent)
 Transcriptionist:
 From interviews, plays to tv programs/sniplets.
