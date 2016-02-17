@@ -17,28 +17,32 @@ comfortable when in my own space to execute my job duties.
 
 	My personal goal is to develop software remotely.
 Current projects: 
-*Web Blog (website)
-	-bitbucket.org/wowiamhere/latestfashiontrendzblog
-		-login: 'example@trendzblog.com'
-		-pass: 'password'
-		(checkout AngularJs on Profile page 
-		and all over pages for commenting)
-	-Ruby On Rails 4.2
-		+3 models (2 associations: has_many, belongs_to)
-		+friendly forwarding, remember-me option, etc.
-		+partials for comments, posts, user information
-		+infinite scrolling
-	-PostgreSql
-	-AngularJs
-		+$routeProvider
-		+$http
-		+$resource
-		+$location
-		+controllers, directives, services, templates etc
-	-HTML, CSS, jQuery
- *Game Development
-	-C++/SFML
-		+tetris
+	*Web Blog (website)
+		-bitbucket.org/wowiamhere/latestfashiontrendzblog
+			-login: 'example@trendzblog.com'
+			-pass: 'password'
+			(checkout AngularJs on Profile page 
+			and all over pages for commenting)
+		-Ruby On Rails 4.2
+			+3 models (2 associations: has_many, belongs_to)
+			+friendly forwarding, remember-me option, etc.
+			+partials for comments, posts, user information
+			+infinite scrolling
+		-PostgreSql
+		-AngularJs
+			+$routeProvider
+			+$http
+			+$resource
+			+$location
+			+controllers, directives, services, templates etc
+		-HTML, CSS, jQuery
+	 *Game Development
+		-C++/SFML
+			+tetris
+	 *Currently learning
+		-ASP.NET 5 (MVC 6)
+		-AngularJs 2
+
 
 	Ever since high school, I have loved to watch what happens 
 inside this machine when I type in an editor the syntax of 
