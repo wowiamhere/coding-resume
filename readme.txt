@@ -59,11 +59,7 @@ to further my career and to expand my experience in different fields.
 
                             
 			Sincerely,
-                                                             Sergio S.
-
-
-
-
+                        Sergio S.
 
 Sergio S.
 Sergiobsns@sbcglobal.net 
@@ -77,20 +73,24 @@ OBJECTIVE
         an ultimate long term career.
 
 COMPETENCY
-      *75-85 WPM
-      *Computer Experience
-	-Ruby On Rails, ruby
-	-C++, PHP
-	-AngularJs, javascript, jQuery
-             -HTML, Css, LESS, Sass, Bootstrap
-	-PostGreSql, Mysql
-	-REST
-	-CRUD
-	-Git
-      *Meticulous attention
-      *Managerial Experience
-      *Logical/Mathematical mental disposition
-      *Cisco's ICND1
+      * 75-85 WPM
+      * Computer Experience
+	- Windows
+	- Ruby On Rails, 
+	- C/C++, Ruby, PHP 
+	- AngularJs, javascript, jQuery
+             - HTML, Css, LESS, Sass, Bootstrap
+	- PostGreSql, Mysql
+	- REST, CRUD, MVC
+	- Git, Bower
+	+ Working-on: 
+		++ ASP.NET 5 (MVC 6)
+		++ AngularJs 2
+		
+	* Meticulous attention
+	* Managerial Experience
+	* Logical/Mathematical mental disposition
+	* Cisco's ICND1
 
 PROJECTS
 For source code and Heroku sites:
@@ -109,6 +109,7 @@ http://www.latestfashiontrendzblog.herokuapp.com
 			*backend functions
 	-Rails, AngularJs, PostGreSql, jQuery, HTML, CSS, Less, Bower, Bootstrap, etc..
 
+
 EXPERIENCE		
        	Throughout my venture into the job market in various, I have acquired skills desirable
 	for prospective employers. I have also stayed active on a personal level in regards to 
@@ -123,7 +124,6 @@ EXPERIENCE
 			-Server Maintenance 
                                 	-Red Hat Linux Certification
 			-Cisco's CCNA
-
 
 UTest.com
 Software Tester:
@@ -159,6 +159,10 @@ Andrews Intl. Security2005-2006
  Provide security detail at various venues and events. Organize staff, keep time sheet records,
  file reports for LAPD when applicable, reports on daily activities, etc.
 
+
+
+
+
 EDUCATION
 Los Angeles City College:2008-present
 	-Computer Science Studies, programming, office software, website building.
@@ -171,3 +175,4 @@ DePaul University:
 
 HOBBIES
 Reading, research, computer leisure, billiards, wine tasting, food.
+
