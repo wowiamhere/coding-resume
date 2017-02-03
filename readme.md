@@ -59,7 +59,7 @@ http://bitbucket.org/wowiamhere
 
 
 **CERTIFICATIONS**  
-Cisco’s CCNA Certification (current studies)  
+Ciscos CCNA Certification (current studies)  
 
 
 **EXPERIENCE**  
@@ -72,9 +72,9 @@ Test websites/software/applications using tools such as SoapUI, etc...
 Transcriptionist:  
 From interviews, plays to tv programs/sniplets.  
 
-*O’Hare Intl. Airport Hilton Hotel*   
+*OHare Intl. Airport Hilton Hotel*   
 Guest Service Agent:  
- Track records related to room assignments, guest’s financial accounts and internal company
+ Track records related to room assignments, guests financial accounts and internal company
 reports/information. Assist higher management in executing daily operations such as room
  audits, guest satisfaction surveys and reports and record keeping for internal use in different
  departments.  
