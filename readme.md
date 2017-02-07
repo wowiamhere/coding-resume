@@ -58,8 +58,11 @@ http://bitbucket.org/wowiamhere
 	+ **repo**: [generalnews.herokuapp.com](https://generalnews.herokuapp.com/)  
 - **Php/Javascript* Performing Arts Website**  
 	+ **live**: [performingartswebsite.herokuapp.com](https://performingartswebsite.herokuapp.com)  
-	+ **repo**: [bitbucket.org/wowiamhere/performing_arts_website](http://www.bitbucket.org/wowiamhere/performing_arts_website)  
-
+	+ **repo**: [bitbucket.org/wowiamhere/performing_arts_website](http://www.bitbucket.org/wowiamhere/performing_arts_website)   
+- **Rails 4.3/Postgresql** site  
+	+ **live**: [Rails 4.3 App](https://rails4app.herokuapp.com)  	
+	+ **Repo**: [https://bitbucket.org/wowiamhere/rails_4_test_app](https://bitbucket.org/wowiamhere/rails_4_test_app)  
+	
 
 **CERTIFICATIONS**  
 Ciscos CCNA Certification (current studies)  
