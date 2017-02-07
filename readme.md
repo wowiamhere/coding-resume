@@ -28,8 +28,11 @@ Please accept my resume for your consideration.
 		- Angular2
 		- RxJs
 		- ExpressJs
+		- Ruby
+		- Typescript
 		- javascript
-		- C/C++, Ruby, PHP 
+		- ES6
+		- C/C++, PHP 
 	  - HTML, Css, LESS, Sass, Bootstrap
 		- PostGreSql, Mysql
 		- REST, CRUD, MVC
