@@ -39,6 +39,7 @@ Please accept my resume for your consideration.
 		- Git, Bower
 		+ Working-on: 
 			++ Python
+			++ Django
 			++ ASP.NET 5 (MVC 6)
 		
 * Meticulous attention
