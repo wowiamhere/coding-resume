@@ -35,7 +35,7 @@ Please accept my resume for your consideration.
 		- C/C++, PHP 
 	  - HTML, Css, LESS, Sass, Bootstrap
 		- PostGreSql, Mysql
-		- REST, CRUD, MVC
+		- REST, CRUD, MVC, ORM
 		- Git, Bower
 		+ Working-on: 
 			++ Python
