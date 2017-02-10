@@ -12,11 +12,7 @@ Hello,
 [**ZenCodeMaster.com**](http://ZenCodeMaster.com)  
 for *frontend/backend* ranging from **ExpressJs**, **Angular2**, **Rails**, etc  
 
-
 I am seeking a team to join.  
-I have **coding experience**; please check my portofolio (link above).  
-I have a **logical mentality** and a **willingness to learn** and  
-open up to new routines, styles and personalities.   
 
 Please accept my resume for your consideration.  
                            
