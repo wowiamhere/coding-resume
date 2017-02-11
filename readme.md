@@ -31,7 +31,7 @@ Please accept my resume for your consideration.
 - PostGreSql, Mysql
 - REST, CRUD, MVC, ORM
 - Git, Bower
-- Windows (wp/7/10)
+- Windows (wp/7/10)  
 + Working-on:
 	+ Python
 	+ Django
