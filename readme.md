@@ -17,10 +17,7 @@ I am seeking a team to join.
 Please accept my resume for your consideration.  
                            
 **COMPETENCY**  
-
-	  - 75-85 WPM
-		- Windows (wp/7/10)
-		- Ruby On Rails(4/5) 
+		- Rails 
 		- Angular2
 		- RxJs
 		- ExpressJs
@@ -29,7 +26,7 @@ Please accept my resume for your consideration.
 		- javascript
 		- ES6
 		- C/C++, PHP 
-	  - HTML, Css, LESS, Sass, Bootstrap
+	  - html, css, Bootstrap
 		- PostGreSql, Mysql
 		- REST, CRUD, MVC, ORM
 		- Git, Bower
@@ -37,6 +34,7 @@ Please accept my resume for your consideration.
 			++ Python
 			++ Django
 			++ ASP.NET 5 (MVC 6)
+		- Windows (wp/7/10)			
 		
 * Meticulous attention
 * Managerial Experience
