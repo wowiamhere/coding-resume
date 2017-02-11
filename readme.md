@@ -17,24 +17,25 @@ I am seeking a team to join.
 Please accept my resume for your consideration.  
                            
 **COMPETENCY**  
-		- Rails 
-		- Angular2
-		- RxJs
-		- ExpressJs
-		- Ruby
-		- Typescript
-		- javascript
-		- ES6
-		- C/C++, PHP 
-	  - html, css, Bootstrap
-		- PostGreSql, Mysql
-		- REST, CRUD, MVC, ORM
-		- Git, Bower
-		+ Working-on: 
-			++ Python
-			++ Django
-			++ ASP.NET 5 (MVC 6)
-		- Windows (wp/7/10)			
+
+- Rails 
+- Angular2
+- RxJs
+- ExpressJs
+- Ruby
+- Typescript
+- javascript
+- ES6
+- C/C++, PHP 
+- html, css, Bootstrap
+- PostGreSql, Mysql
+- REST, CRUD, MVC, ORM
+- Git, Bower
+- Windows (wp/7/10)
++ Working-on:
+	+ Python
+	+ Django
+	+ ASP.NET 5 (MVC 6)  		
 		
 * Meticulous attention
 * Managerial Experience
