@@ -4,7 +4,7 @@
 **us citizen**  
 **seeking:** *Remote Work/on-site:maybe*  
 *spanish/english*  
-*location: Los Angeles*   
+*location: Hollywood, Ca*   
 
 Hello,
 
