@@ -8,6 +8,10 @@ Location: Hollywood, Ca
 
 Hello,
 
+I am working on a Rails 5 and Django version 
+of my portfolio coded in: 
+ExpressJs, Angular2, Rxjs, Postgresql.
+
 Current projects at: ZenCodeMaster.com 
 for frontend/backend ranging from Rails, ExpressJs, Angular2, 
 Ruby, html, css, javascript, Typescript, Node, OOP, MVC, HTTP, APIs, etc …

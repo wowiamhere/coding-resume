@@ -8,7 +8,7 @@
 
 Hello,
 
-**Cur rent projects** at:  
+**Current projects** at:  
 [**ZenCodeMaster.com**](http://ZenCodeMaster.com)  
 for *frontend/backend* ranging from **ExpressJs**, **Angular2**, **Rails**, etc  
 
@@ -34,7 +34,6 @@ Please accept my resume for your consideration.
 - Windows (wp/7/10)
 
 + Working-on:
-	+ Python
 	+ Django
 	+ ASP.NET 5 (MVC 6)  		
 		
