@@ -49,9 +49,9 @@ http://bitbucket.org/wowiamhere
 - **ExpressJs/Angualr2/Rxjs** Online Portfolio
 	+ **live**: [ZenCodeMaster.com](http://ZenCodeMaster.com)  
 	+ **repo**: [bitbucket.org/wowiamhere/zencodemaster](https://www.bitbucket.org/wowiamhere/zencodemaster)  
-- **Angular2/Rxjs** News Service Website
-	+ **live**: [bitbucket.org/wowiamhere/generalnews](http://www.bitbucket.org/wowiamhere/generalnews)  
-	+ **repo**: [generalnews.herokuapp.com](https://generalnews.herokuapp.com/)  
+- **Angular2/Rxjs** News Service Website  
+	+ **live**: [generalnews.herokuapp.com](https://generalnews.herokuapp.com/)  
+	+ **repo**: [bitbucket.org/wowiamhere/generalnews](http://www.bitbucket.org/wowiamhere/generalnews)  
 - **Php/Javascript* Performing Arts Website**  
 	+ **live**: [performingartswebsite.herokuapp.com](https://performingartswebsite.herokuapp.com)  
 	+ **repo**: [bitbucket.org/wowiamhere/performing_arts_website](http://www.bitbucket.org/wowiamhere/performing_arts_website)   
