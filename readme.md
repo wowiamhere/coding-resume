@@ -6,9 +6,7 @@
 *spanish/english*  
 *location: Hollywood, Ca*   
 
-Hello,
-
-**Current projects** at:  
+**Current projects**:    
 [**ZenCodeMaster.com**](http://ZenCodeMaster.com)  
 for *frontend/backend* ranging from **ExpressJs**, **Angular2**, **Rails**, etc  
 
