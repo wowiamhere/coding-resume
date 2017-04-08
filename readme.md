@@ -3,7 +3,7 @@
 **wowiamhere@gmail.com**   
 **us citizen**  
 **seeking:** *Remote Work/on-site:maybe*  
-*spanish/english*  
+*English/Spanish*  
 *location: Hollywood, Ca*   
 
 **Current projects**:    
