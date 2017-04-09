@@ -24,6 +24,7 @@ Please accept my resume for your consideration.
 - Typescript
 - javascript
 - ES6
+- Webpack 
 - C/C++, PHP 
 - html, css, Bootstrap
 - PostGreSql, Mysql
