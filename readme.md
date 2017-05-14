@@ -1,18 +1,20 @@
 **Sergio S.**  
 [**ZenCodeMaster.com** (portfolio)](http://www.ZenCodeMaster.com)  
 **wowiamhere@gmail.com**   
-**us citizen**  
-**seeking:** *Remote Work/on-site:maybe*  
+**US Citizen**  
+**Seeking:** *Remote Work/on-site:maybe*  
 *English/Spanish*  
-*location: Hollywood, Ca*   
+*Location: Hollywood, Ca*   
+*Portfolio/Projects*
+**Current projects**:  [**ZenCodeMaster.com**](http://ZenCodeMaster.com)  *backend/frontend*
 
-**Current projects**:    
-[**ZenCodeMaster.com**](http://ZenCodeMaster.com)  
-for *frontend/backend* ranging from **ExpressJs**, **Angular2**, **Rails**, etc  
+*cover letter*: https://github.com/wowiamhere/coding-resume/blob/master/sergioS-CoverLetter.pdf  
 
 I am seeking a team to join.  
 
 Please accept my resume for your consideration.  
+
+
                            
 **COMPETENCY**  
 
@@ -21,6 +23,8 @@ Please accept my resume for your consideration.
 - RxJs
 - ExpressJs
 - Ruby
+- Rspec
+- Capybara
 - Typescript
 - javascript
 - ES6
@@ -46,17 +50,20 @@ http://www.ZenCodeMaster.com
 http://bitbucket.org/wowiamhere  
 
 - **ExpressJs/Angualr2/Rxjs** Online Portfolio
-	+ **live**: [ZenCodeMaster.com](http://ZenCodeMaster.com)  
-	+ **repo**: [bitbucket.org/wowiamhere/zencodemaster](https://www.bitbucket.org/wowiamhere/zencodemaster)  
+    + **live**: [ZenCodeMaster.com](http://ZenCodeMaster.com)  
+    + **repo**: [bitbucket.org/wowiamhere/zencodemaster](https://www.bitbucket.org/wowiamhere/zencodemaster)  
+- **Rails5/Postgresql** Message Board
+    + **live**: [RailsMessageBoard](http://railsmessageboard.herokuapp.com)
+    + **repo**: [github.com/wowiamhere/RailsMessageBoard](github.com/wowiamhere/RailsMessageBoard)    
 - **Angular2/Rxjs** News Service Website  
-	+ **live**: [generalnews.herokuapp.com](https://generalnews.herokuapp.com/)  
-	+ **repo**: [bitbucket.org/wowiamhere/generalnews](http://www.bitbucket.org/wowiamhere/generalnews)  
+    + **live**: [generalnews.herokuapp.com](https://generalnews.herokuapp.com/)  
+    + **repo**: [bitbucket.org/wowiamhere/generalnews](http://www.bitbucket.org/wowiamhere/generalnews)  
 - **Php/Javascript* Performing Arts Website**  
-	+ **live**: [performingartswebsite.herokuapp.com](https://performingartswebsite.herokuapp.com)  
-	+ **repo**: [bitbucket.org/wowiamhere/performing_arts_website](http://www.bitbucket.org/wowiamhere/performing_arts_website)   
+    + **live**: [performingartswebsite.herokuapp.com](https://performingartswebsite.herokuapp.com)  
+    + **repo**: [bitbucket.org/wowiamhere/performing_arts_website](http://www.bitbucket.org/wowiamhere/performing_arts_website)   
 - **Rails 4.3/Postgresql** site  
-	+ **live**: [Rails 4.3 App](https://rails4app.herokuapp.com)  	
-	+ **Repo**: [https://bitbucket.org/wowiamhere/rails_4_test_app](https://bitbucket.org/wowiamhere/rails_4_test_app)  
+    + **live**: [Rails 4.3 App](https://rails4app.herokuapp.com)  	
+    + **Repo**: [https://bitbucket.org/wowiamhere/rails_4_test_app](https://bitbucket.org/wowiamhere/rails_4_test_app)  
 	
 
 **CERTIFICATIONS**  
