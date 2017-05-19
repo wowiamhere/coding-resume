@@ -72,37 +72,37 @@ Ciscos CCNA Certification (current studies)
 
 **EXPERIENCE**  
 
-*UTest.com*  
+*UTest.com* (Jul 2015- present)    
 Software Tester:  
 Test websites/software/applications using tools such as SoapUI, etc...  
 
-*Amazon Turk Transcription* -Present (home based, not consistent)  
+*Amazon Turk Transcription* -Present (home based, not consistent) (Aug 2009-2014)  
 Transcriptionist:  
 From interviews, plays to tv programs/sniplets.  
 
-*OHare Intl. Airport Hilton Hotel*   
+*OHare Intl. Airport Hilton Hotel* (Jun 1998-Jul 1999)  
 Guest Service Agent:  
  Track records related to room assignments, guests financial accounts and internal company
 reports/information. Assist higher management in executing daily operations such as room
  audits, guest satisfaction surveys and reports and record keeping for internal use in different
  departments.  
 
-*AppleOne*  
+*AppleOne* (Jul 1999-Aug 1999)  
 General Office Support Staff:  
  Temporary employment agency specializing in office support. Jobs sent on included financial
 brokerage firms and private businesses. Duties included maintaining office records and
  assisting in daily operations.  
 
-*Andrews Intl. Security*  
+*Andrews Intl. Security* (Sep 2008-Dec 2010)   
 -Security detail:  
  Provide security detail at various venues and events. Organize staff, keep time sheet records,
  file reports for LAPD when applicable, reports on daily activities, etc.  
 
 
 **EDUCATION**
-*Los Angeles City College:2008* -present  
+*Los Angeles City College:2008*  (uncompleted)  
 -Computer Science Studies.  
 -General Studies:  Anthropology, Mathematics, Physics, Social Studies, Psychology, Philosophy, Law, Religious Studies.  
 
-*DePaul University*  
+*DePaul University* (uncompleted)  
 -Computer Science Studies and General Education.  
