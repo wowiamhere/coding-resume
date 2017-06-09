@@ -1,14 +1,13 @@
 **Sergio S.**  
-[**ZenCodeMaster.com** (portfolio)](http://www.ZenCodeMaster.com)  
 **wowiamhere@gmail.com**   
 **US Citizen**  
 **Seeking:** *Remote Work/on-site:maybe*  
-*English/Spanish*  
-*Location: Hollywood, Ca*   
-*Portfolio/Projects*
-**Current projects**:  [**ZenCodeMaster.com**](http://ZenCodeMaster.com)  *backend/frontend*
-
-*cover letter*: https://github.com/wowiamhere/coding-resume/blob/master/sergioS-CoverLetter.pdf  
+**English/Spanish**  
+**Location:** *Hollywood, Ca*   
+**Portfolio/Projects:**  
+[**ZenCodeMaster.com**](http://ZenCodeMaster.com)  *backend/frontend projects*  
+**Cover Letter**:  
+*https://github.com/wowiamhere/coding-resume/blob/master/sergioS-CoverLetter.pdf*  
 
 I am seeking a team to join.  
 
